@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-kimgrang1202@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kimgrang1202@gmail.com)](mailto:kimgrang1202@gmail.com) [![Github Badge](https://img.shields.io/badge/-KimGrang-grey?style=flat&logo=github&logoColor=white&link=https://github.com/KimGrang/)](https://www.github.com/KimGrang/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/KimGrang//)](https://github.com/KimGrang//) 
 ### Backend/Machine Laerning Engineer
 <p align='left'>I'm a developer who acts and participates.</p>
+
 ### Interest 
 <p align='left'> - Backend DevOps</p>
 <p align='left'> - MLOps</p>
